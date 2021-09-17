@@ -1,0 +1,10 @@
+#myCanvas{
+    border: 7px ridge silver ;
+    background-color: wheat;
+}
+body{
+    background-image:url("https://previews.123rf.com/images/nadianb/nadianb1808/nadianb180800080/105786091-school-and-office-stationery-on-yellow-background-.jpg");
+    text-align:center;
+    background-position: center;
+    background-size: cover;
+}
